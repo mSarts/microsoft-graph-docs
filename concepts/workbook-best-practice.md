@@ -115,7 +115,7 @@ workbook-session-id: {session-id}
 HTTP/1.1 204 No Content
 ```
 
-For more details, see [Create session](/graph/api/workbook-createsession?view=graph-rest-1.0) and [Close session](/graph/api/workbook-closesession?view=graph-rest-1.0).
+For more details, see [Create session](/graph/api/workbook-createsession?view=graph-rest-1.0&preserve-view=true) and [Close session](/graph/api/workbook-closesession?view=graph-rest-1.0&preserve-view=true).
 
 ## Working with APIs that take a long time to complete
 

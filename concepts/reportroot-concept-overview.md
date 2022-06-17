@@ -42,26 +42,26 @@ You can use the reports APIs to access the data sets listed in the following tab
 
 | Reports APIs | Data set |
 |:------------ |:-------- |
-| Activity | [Directory audit](/graph/api/resources/directoryaudit?view=graph-rest-1.0)<br/>[Sign-in](/graph/api/resources/signin?view=graph-rest-1.0)<br/>[Provisioning (Preview)](/graph/api/resources/provisioningobjectsummary?view=graph-rest-beta) |
-| AD FS applications | [Relying part detailed summary (Preview)](/graph/api/resources/relyingpartydetailedsummary?view=graph-rest-beta) |
-| Application registration | [Credential user registration count (Preview)](/graph/api/resources/credentialuserregistrationcount?view=graph-rest-beta)<br/>[Credential user registration details (Preview)](/graph/api/resources/credentialuserregistrationdetails?view=graph-rest-beta) <br/>[User credential usage details (Preview)](/graph/api/resources/usercredentialusagedetails?view=graph-rest-beta) <br/>[Credential usage summary (Preview)](/graph/api/resources/credentialusagesummary?view=graph-rest-beta)|
-| Application sign-in | [Sign-in summary (Preview)](/graph/api/resources/applicationsigninsummary?view=graph-rest-beta) <br/>[Sign-in details (Preview)](/graph/api/resources/applicationsignindetailedsummary?view=graph-rest-beta)|
-| Microsoft Teams | [Device usage](/graph/api/resources/microsoft-teams-device-usage-reports?view=graph-rest-1.0)<br/>[Team usage](/graph/api/resources/microsoft-teams-team-usage-reports?view=graph-rest-beta)<br/>[User activity](/graph/api/resources/microsoft-teams-user-activity-reports?view=graph-rest-1.0)|
-| Microsoft 365 (general) | [Activations](/graph/api/resources/office-365-activations-reports?view=graph-rest-1.0)<br/>[Active users](/graph/api/resources/office-365-active-users-reports?view=graph-rest-1.0)<br/>[Groups activity](/graph/api/resources/office-365-groups-activity-reports?view=graph-rest-1.0) |
-| OneDrive | [Activity](/graph/api/resources/onedrive-activity-reports?view=graph-rest-1.0)<br/>[Usage](/graph/api/resources/onedrive-usage-reports?view=graph-rest-1.0) |
-| Outlook | [Activity](/graph/api/resources/email-activity-reports?view=graph-rest-1.0)<br/>[App usage](/graph/api/resources/email-app-usage-reports?view=graph-rest-1.0)<br/>[Mailbox usage](/graph/api/resources/mailbox-usage-reports?view=graph-rest-1.0) |
-| SharePoint | [Activity](/graph/api/resources/sharepoint-activity-reports?view=graph-rest-1.0)<br/>[Site usage](/graph/api/resources/sharepoint-site-usage-reports?view=graph-rest-1.0) |
-| Skype for Business | [Activity](/graph/api/resources/skype-for-business-activity-reports?view=graph-rest-1.0)<br/>[Device usage](/graph/api/resources/skype-for-business-device-usage-reports?view=graph-rest-1.0)<br/>[Device usage](/graph/api/resources/skype-for-business-device-usage-reports?view=graph-rest-1.0)<br/>[Participant activity](/graph/api/resources/skype-for-business-participant-activity-reports?view=graph-rest-1.0)<br/>[Peer to peer activity](/graph/api/resources/skype-for-business-peer-to-peer-activity?view=graph-rest-1.0) |
-| Yammer | [Activity](/graph/api/resources/yammer-activity-reports?view=graph-rest-1.0)<br/>[Device usage](/graph/api/resources/yammer-device-usage-reports?view=graph-rest-1.0)<br/>[Groups activity](/graph/api/resources/yammer-groups-activity-reports?view=graph-rest-1.0) |
+| Activity | [Directory audit](/graph/api/resources/directoryaudit?view=graph-rest-1.0&preserve-view=true)<br/>[Sign-in](/graph/api/resources/signin?view=graph-rest-1.0&preserve-view=true)<br/>[Provisioning (Preview)](/graph/api/resources/provisioningobjectsummary?view=graph-rest-beta&preserve-view=true) |
+| AD FS applications | [Relying part detailed summary (Preview)](/graph/api/resources/relyingpartydetailedsummary?view=graph-rest-beta&preserve-view=true) |
+| Application registration | [Credential user registration count (Preview)](/graph/api/resources/credentialuserregistrationcount?view=graph-rest-beta&preserve-view=true)<br/>[Credential user registration details (Preview)](/graph/api/resources/credentialuserregistrationdetails?view=graph-rest-beta&preserve-view=true) <br/>[User credential usage details (Preview)](/graph/api/resources/usercredentialusagedetails?view=graph-rest-beta&preserve-view=true) <br/>[Credential usage summary (Preview)](/graph/api/resources/credentialusagesummary?view=graph-rest-beta&preserve-view=true)|
+| Application sign-in | [Sign-in summary (Preview)](/graph/api/resources/applicationsigninsummary?view=graph-rest-beta&preserve-view=true) <br/>[Sign-in details (Preview)](/graph/api/resources/applicationsignindetailedsummary?view=graph-rest-beta&preserve-view=true)|
+| Microsoft Teams | [Device usage](/graph/api/resources/microsoft-teams-device-usage-reports?view=graph-rest-1.0&preserve-view=true)<br/>[Team usage](/graph/api/resources/microsoft-teams-team-usage-reports?view=graph-rest-beta&preserve-view=true)<br/>[User activity](/graph/api/resources/microsoft-teams-user-activity-reports?view=graph-rest-1.0&preserve-view=true)|
+| Microsoft 365 (general) | [Activations](/graph/api/resources/office-365-activations-reports?view=graph-rest-1.0&preserve-view=true)<br/>[Active users](/graph/api/resources/office-365-active-users-reports?view=graph-rest-1.0&preserve-view=true)<br/>[Groups activity](/graph/api/resources/office-365-groups-activity-reports?view=graph-rest-1.0&preserve-view=true) |
+| OneDrive | [Activity](/graph/api/resources/onedrive-activity-reports?view=graph-rest-1.0&preserve-view=true)<br/>[Usage](/graph/api/resources/onedrive-usage-reports?view=graph-rest-1.0&preserve-view=true) |
+| Outlook | [Activity](/graph/api/resources/email-activity-reports?view=graph-rest-1.0&preserve-view=true)<br/>[App usage](/graph/api/resources/email-app-usage-reports?view=graph-rest-1.0&preserve-view=true)<br/>[Mailbox usage](/graph/api/resources/mailbox-usage-reports?view=graph-rest-1.0&preserve-view=true) |
+| SharePoint | [Activity](/graph/api/resources/sharepoint-activity-reports?view=graph-rest-1.0&preserve-view=true)<br/>[Site usage](/graph/api/resources/sharepoint-site-usage-reports?view=graph-rest-1.0) |
+| Skype for Business | [Activity](/graph/api/resources/skype-for-business-activity-reports?view=graph-rest-1.0&preserve-view=true)<br/>[Device usage](/graph/api/resources/skype-for-business-device-usage-reports?view=graph-rest-1.0&preserve-view=true)<br/>[Device usage](/graph/api/resources/skype-for-business-device-usage-reports?view=graph-rest-1.0&preserve-view=true)<br/>[Participant activity](/graph/api/resources/skype-for-business-participant-activity-reports?view=graph-rest-1.0&preserve-view=true)<br/>[Peer to peer activity](/graph/api/resources/skype-for-business-peer-to-peer-activity?view=graph-rest-1.0&preserve-view=true) |
+| Yammer | [Activity](/graph/api/resources/yammer-activity-reports?view=graph-rest-1.0&preserve-view=true)<br/>[Device usage](/graph/api/resources/yammer-device-usage-reports?view=graph-rest-1.0&preserve-view=true)<br/>[Groups activity](/graph/api/resources/yammer-groups-activity-reports?view=graph-rest-1.0&preserve-view=true) |
 
 ## API reference
 Looking for the API reference for this service?
 
-- [Identity and access reports API in Microsoft Graph beta](/graph/api/resources/report-identity-access?view=graph-rest-beta)
-- [Microsoft 365 usage reports API in Microsoft Graph v1.0](/graph/api/resources/report?view=graph-rest-1.0)
-- [Microsoft 365 usage reports API in Microsoft Graph beta](/graph/api/resources/report?view=graph-rest-beta)
+- [Identity and access reports API in Microsoft Graph beta](/graph/api/resources/report-identity-access?view=graph-rest-beta&preserve-view=true)
+- [Microsoft 365 usage reports API in Microsoft Graph v1.0](/graph/api/resources/report?view=graph-rest-1.0&preserve-view=true)
+- [Microsoft 365 usage reports API in Microsoft Graph beta](/graph/api/resources/report?view=graph-rest-beta&preserve-view=true)
 
 ## Next steps
 
 * Explore the APIs in the [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer).
-* Learn more about how to [use the reports REST API](/graph/api/resources/report?view=graph-rest-1.0).
+* Learn more about how to [use the reports REST API](/graph/api/resources/report?view=graph-rest-1.0&preserve-view=true).
